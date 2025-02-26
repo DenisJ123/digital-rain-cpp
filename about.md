@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Project
 ---
 
 Some Markdown content describing your site.
