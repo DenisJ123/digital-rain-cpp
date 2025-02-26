@@ -1,0 +1,13 @@
+# Site settings
+title: denis's Blog
+
+author:
+  name: Denis J
+  email: G00403126@atu.ie
+description: "A website."
+
+# Build settings
+remote_theme: jekyll/minima
+
+plugins:
+- jekyll-remote-theme
