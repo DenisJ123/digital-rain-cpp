@@ -29,4 +29,5 @@ You can add an image that has been uploaded to the repository in a /docs/assets/
  
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/DigitalRainDev1.png" width="400" height="300">
 
+<img src="https://s3.ezgif.com/tmp/ezgif-366bc0af7dc047.gif" width="400" height="300">
 
