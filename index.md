@@ -28,5 +28,6 @@ A bullet list:
 You can add an image that has been uploaded to the repository in a /docs/assets/images folder.
  
 <img src="https://raw.githubusercontent.com/melgineer/digital-rain-test-cpp/main/docs/assets/images/DigitalRainDev1.png" width="400" height="300">
+<img src="Rain.png" width="400" height="300">
 
 
