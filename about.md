@@ -13,6 +13,7 @@ To create smooth animations in the Windows console, I implemented precise contro
 - **Cursor Positioning** - For targeted character placement
 - **Text Colouring** - To achieve Matrix green
 - **Screen Buffer Management** - For dynamic resizing support
+- Heres a piece of code that I have used chat gpt to help assist me create
   
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/ConsoleControlSystem.png" width="600" height="300">
 
