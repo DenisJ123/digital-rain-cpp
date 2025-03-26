@@ -22,6 +22,8 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 
 - Uses vector<int> to track each rain column's vertical position
 
+- Uses object oriented design of code, through use of my class "Rain"
+
 - Implements variable speeds (1-5 rows per frame)
 
 - Random reset logic creates organic patterns
