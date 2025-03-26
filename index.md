@@ -16,9 +16,9 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/Rainvid.gif" width="400" height="300">
 
 ## Design & Implementation
-### System Components:
+### System Components
 
-Column Controller
+Column Controller:
 -Uses vector<int> to track each rain column's vertical position
 
 -Implements variable speeds (1-5 rows per frame)
