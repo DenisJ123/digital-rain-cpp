@@ -34,7 +34,7 @@ To create the illusion of motion while minimizing flicker i had to,
 - Maintain consistent frame pacing
 
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/CharacterRenderingPipeline1.png" width="500" height="400">
-<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/CharacterRenderingPipeline2.png" width="500" height="250">
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/CharacterRenderingPipeline2.png" width="500" height="200">
 
 ## Why I chose certain headers
 ## References
