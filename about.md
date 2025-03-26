@@ -11,27 +11,26 @@ This project replicates the iconic "falling code" effect from The Matrix using W
 
 To create smooth animations in the Windows console, I implemented precise control over three key aspects: 
 - **Cursor Positioning** - For targeted character placement
-- *Text Colouring* - To achieve the signature Matrix green
-- Screen buffer dimensions
-
-I done this by using this piece of code
+- **Text Colouring** - To achieve Matrix green
+- **Screen Buffer Management** - For dynamic resizing support
   
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/ConsoleControlSystem.png" width="600" height="300">
 
 ### Dynamic Column Management
 
-To simulate independent falling columns i had to track,
-- Each column's vertical position
-- Randomized reset logic for continuous flow
+The simulation maintains independent "rain streams" through:
+- A vector tracking each column's vertical position
+- Randomized activation logic for organic appearance
+- Boundary detection for seamless looping
 
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/DynamicColumnManagement.png" width="500" height="300">
 
 ### Character Rendering
 
-To create the illusion of motion while minimizing flicker i had to,
-- Draw new characters
-- Erase old characters
-- Maintain consistent frame pacing
+The animation maintains smooth motion through a three-phase render cycle:
+- Draw new characters at current positions
+- Erase previous characters to prevent smearing
+- Throttle frames for consistent speed
 
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/CharacterRenderingPipeline1.png" width="500" height="400">
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/CharacterRenderingPipeline2.png" width="550" height="200">
@@ -54,5 +53,13 @@ Ctime - For time()
 Thread - For multithreading
 
 Chrono - For time-related functions
+
+Technical Design Choices
+Library Selection
+Library	Purpose	Key Benefit
+windows.h	Console manipulation	Direct hardware access
+vector	Column management	Automatic memory handling
+thread + chrono	Animation timing	Precise frame control
+cstdlib	Randomization	Lightweight RNG
 
 ## References
