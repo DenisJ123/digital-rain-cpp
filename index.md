@@ -20,7 +20,9 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 
 Column Controller
 -Uses vector<int> to track each rain column's vertical position
+
 -Implements variable speeds (1-5 rows per frame)
+
 -Random reset logic creates organic patterns
 
 Render Pipeline
