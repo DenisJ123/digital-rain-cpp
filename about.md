@@ -36,10 +36,11 @@ To create the illusion of motion while minimizing flicker i had to,
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/CharacterRenderingPipeline1.png" width="500" height="400">
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/CharacterRenderingPipeline2.png" width="550" height="200">
 
-## Why I chose certain headers
+## Why I chose certain librarys
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/Librarys.png" width="400" height="250">
 
 Windows.h - Windows-specific console functions
+
 Iostream - Input/Output
 Vector - Vector container
 String - String operations
