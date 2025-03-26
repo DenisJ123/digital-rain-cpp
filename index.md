@@ -26,21 +26,23 @@ Column Controller:
 
 - Random reset logic creates organic patterns
 
+
 Render Pipeline
 
-Optimized character-by-character updates
+- Optimized character-by-character updates
 
-Double buffering technique minimizes flicker
+- Double buffering technique minimizes flicker
 
-Smart erasure of trailing characters
+- Smart erasure of trailing characters
+
 
 Console Interface
 
-Direct Windows API calls for maximum performance
+- Direct Windows API calls for maximum performance
 
-Dynamic resize detection
+- Dynamic resize detection
 
-Precision color control
+- Precision color control
 
 
 Hyperlinks look like this: [GitHub Help](https://help.github.com/).
