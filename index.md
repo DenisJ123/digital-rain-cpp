@@ -5,7 +5,7 @@ tags: cpp coding project
 categories: demo
 ---
  
-## Introduction
+## Intro
 
 This project brings the iconic Matrix digital rain effect to life using Windows Console API and modern C++. Designed as both a technical challenge and nostalgic tribute, it demonstrates:
 - Real-time console animation
