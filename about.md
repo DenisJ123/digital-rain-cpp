@@ -24,7 +24,7 @@ To simulate independent falling columns i had to track,
 - Each column's vertical position
 - Randomized reset logic for continuous flow
 
-<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/DynamicColumnManagement.png" width="600" height="300">
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/DynamicColumnManagement.png" width="900" height="300">
 
 ### Character Rendering
 
