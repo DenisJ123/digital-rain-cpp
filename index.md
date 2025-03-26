@@ -16,7 +16,7 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/Rainvid.gif" width="400" height="300">
 
 ## Design & Implementation
-### System Components
+### System Components:
 
 **Column Controller**
 
@@ -47,7 +47,7 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 
 ## Algorithm
 
-**Column Management System**
+### **Column Management System**
 
 
 
