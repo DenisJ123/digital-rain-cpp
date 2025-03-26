@@ -14,9 +14,9 @@ To create animation in the console i had to control the
 - Text color
 - Screen buffer dimensions
 
-  I done this by using this piece of code
+I done this by using this piece of code
   
-  <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/ConsoleControlSystem.png" width="500" height="300">
+  <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/ConsoleControlSystem.png" width="600" height="300">
 
 ### Dynamic Column Management
 
