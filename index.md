@@ -18,7 +18,7 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 ## Design & Implementation
 ### System Components
 
-Column Controller:
+**Column Controller**
 
 - Uses vector<int> to track each rain column's vertical position
 
@@ -27,7 +27,7 @@ Column Controller:
 - Random reset logic creates organic patterns
 
 
-Render Pipeline
+**Render Pipeline**
 
 - Optimized character-by-character updates
 
@@ -36,13 +36,29 @@ Render Pipeline
 - Smart erasure of trailing characters
 
 
-Console Interface
+**Console Interface**
 
 - Direct Windows API calls for maximum performance
 
 - Dynamic resize detection
 
 - Precision color control
+
+
+## Algorithm
+
+**Column Management System**
+
+
+
+
+
+
+
+
+
+
+
 
 
 Hyperlinks look like this: [GitHub Help](https://help.github.com/).
