@@ -39,6 +39,13 @@ To create the illusion of motion while minimizing flicker i had to,
 ## Why I chose certain headers
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/Librarys.png" width="500" height="300">
 
-windows.h - Windows-specific console functions
+Windows.h - Windows-specific console functions
+Iostream - Input/Output
+Vector - Vector container
+String - String operations
+Cstdlib - For rand() and srand()
+Ctime - For time()
+Thread - For multithreading
+Chrono - For time-related functions
 
 ## References
