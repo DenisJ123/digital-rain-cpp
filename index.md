@@ -49,6 +49,16 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 
 ### **Column Management System**
 
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/ConsoleControlSystem.png" width="600" height="300">
+
+**Key Features**
+
+- **Variable Speed**: Each column falls at different rates (1-5 rows/frame)
+
+- **Density Control**: 5% activation chance per frame
+
+- **Edge Handling**: Clean reset 10 rows below visible area
+
 
 
 
