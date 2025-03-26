@@ -49,7 +49,8 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 
 ### **Column Management System**
 
-<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/ConsoleControlSystem.png" width="600" height="300">
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/ColumnManagementSystem1.png" width="600" height="300">
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/ColumnManagementSystem2.png" width="600" height="300">
 
 **Key Features**
 
