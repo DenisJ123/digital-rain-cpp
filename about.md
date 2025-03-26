@@ -9,22 +9,32 @@ This project replicates the iconic "falling code" effect from The Matrix using W
 
 ### Console Control System
 
-To create animation in the console i had to control the 
+To create animation in the console i had to control the, 
 - Cursor positioning
 - Text color
 - Screen buffer dimensions
 
 I done this by using this piece of code
   
-  <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/ConsoleControlSystem.png" width="600" height="300">
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/ConsoleControlSystem.png" width="600" height="300">
 
 ### Dynamic Column Management
 
-The About page is a common convention found on websites.
-It is your opportunity to let us know all the details "about" your project:
+To simulate independent falling columns i had to track,
+- Each column's vertical position
+- Randomized reset logic for continuous flow
 
-- focus and topic area
-- people involved
-- code and projects used
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/DynamicColumnManagement.png" width="600" height="300">
+
+### Character Rendering
+
+To create the illusion of motion while minimizing flicker i had to,
+- Draw new characters
+- Erase old characters
+- Maintain consistent frame pacing
+
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/CharacterRenderingPipeline1.png" width="600" height="300">
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/CharacterRenderingPipeline2.png" width="600" height="300">
 
 ## Why I chose certain headers
+## References
