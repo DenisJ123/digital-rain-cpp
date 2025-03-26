@@ -3,15 +3,15 @@ layout: page
 title: About Project
 ---
 
-This project replicates the iconic "falling code" effect from The Matrix using Windows Console API and modern C++. Designed as a technical showcase, it demonstrates low-level console manipulation, real-time animation, and efficient memory management.
+This project replicates the iconic "falling code" effect from The Matrix using Windows Console API and modern C++. Designed as both a technical showcase and nostalgic tribute, it demonstrates low-level console manipulation, real-time animation techniques, and efficient memory management in a constrained environment.
 
-## How I created my project
+## Project Architecture
 
 ### Console Control System
 
-To create animation in the console i had to control the, 
-- Cursor positioning
-- Text color
+To create smooth animations in the Windows console, I implemented precise control over three key aspects: 
+- **Cursor Positioning** - For targeted character placement
+- *Text Colouring* - To achieve the signature Matrix green
 - Screen buffer dimensions
 
 I done this by using this piece of code
