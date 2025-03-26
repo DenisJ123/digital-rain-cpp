@@ -11,16 +11,35 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 - Real-time console animation
 - Low-level system programming
 - Efficient memory management
+- Modern C++ best practices
 
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/Rainvid.gif" width="400" height="300">
 
- 
-This is a paragraph. Add an empty line to start a new paragraph.
- 
-Font can be *Italic* or **Bold**.
- 
-Code can be highlighted with `backticks`.
- 
+## Design & Implementation
+### System Components:
+
+Column Controller
+-Uses vector<int> to track each rain column's vertical position
+-Implements variable speeds (1-5 rows per frame)
+-Random reset logic creates organic patterns
+
+Render Pipeline
+
+Optimized character-by-character updates
+
+Double buffering technique minimizes flicker
+
+Smart erasure of trailing characters
+
+Console Interface
+
+Direct Windows API calls for maximum performance
+
+Dynamic resize detection
+
+Precision color control
+
+
 Hyperlinks look like this: [GitHub Help](https://help.github.com/).
  
 A bullet list:
