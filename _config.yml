@@ -1,12 +1,10 @@
 # Site settings
-title: Denis's Blog
+title: Denis's Project Blog
 
 author:
   name: Denis J
-  email: Lebron@GOAT.ie
+  email: DenisJ@gmail.ie
 description: "A website."
-
-<img src="https://i629.photobucket.com/albums/uu14/dilan49/dilans%20dillies/DancingMan.gif" width="400" height="300">
 
 # Build settings
 remote_theme: jekyll/minima
