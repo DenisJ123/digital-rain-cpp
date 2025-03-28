@@ -37,8 +37,10 @@ The animation maintains smooth motion through a three-phase render cycle:
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/CharacterRenderingPipeline2.png" width="550" height="200">
 
 ### Random Charactor Generation
+aaa
 
 ### Frame Timing
+aaa
 
 ### Why I chose certain librarys
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/Librarys.png" width="400" height="250">
