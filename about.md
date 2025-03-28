@@ -50,7 +50,7 @@ The frame timing feature is used to control the rate of speed of the characters 
 - Pauses execution for 50ms between frames.
 - Controls animation speed (20 FPS).
 
-<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/FrameTiming.png" width="500" height="400">
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/FrameTiming.png" width="500" height="300">
 
 ### Why I chose certain librarys
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/Librarys.png" width="400" height="250">
