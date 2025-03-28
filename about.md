@@ -53,7 +53,7 @@ The frame timing feature is used to control the rate of speed of the characters 
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/FrameTiming.png" width="550" height="200">
 
 ### Why I chose certain librarys
-<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/Librarys.png" width="350" height="200">
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/Librarys.png" width="350" height="250">
 
 Windows.h - Windows-specific console functions
 
