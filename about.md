@@ -36,6 +36,10 @@ The animation maintains smooth motion through a three-phase render cycle:
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/CharacterRenderingPipeline1.png" width="500" height="400">
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/CharacterRenderingPipeline2.png" width="550" height="200">
 
+### Random Charactor Generation
+
+### Frame Timing
+
 ### Why I chose certain librarys
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/Librarys.png" width="400" height="250">
 
@@ -55,5 +59,6 @@ Thread - For multithreading
 
 Chrono - For time-related functions
 
+### Links to full code
 
 ## References
