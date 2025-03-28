@@ -2,7 +2,7 @@
 layout: page
 title: Project
 ---
-### Introduction
+## Introduction
 
 This project brings the iconic Matrix digital rain effect to life using Windows Console API and modern C++. Designed as both a technical challenge and nostalgic tribute, it demonstrates:
 - Real-time console animation
@@ -59,9 +59,7 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 
 - Uses legacy rand() (no <random> header)
 
-
-# Add from here
-# Problem solving
+## Problem solving
 # Modern C++ Insight
 # Reflection
 
