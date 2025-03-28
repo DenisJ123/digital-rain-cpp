@@ -1,14 +1,26 @@
-# Site settings
-title: Denis's Project Blog
+# Site Identity
+title: "Matrix Digital Rain | Denis's C++ Project Blog"
+description: "Modern C++ implementation of the Matrix digital rain effect with Windows Console API. Code repository and development blog."
 
+# Author Info
 author:
   name: Denis J
   email: DenisJ@gmail.ie
-description: "Denis's Project./n goat
-nig"
+  github: DenisJ123  # Your GitHub username
+  github_repo: "https://github.com/DenisJ123/digital-rain-cpp"  # Full project URL
+  social:
+    name: Denis Johnson
+    links:
+      - "https://github.com/DenisJ123"
+      - "https://linkedin.com/in/yourprofile"  # Optional
 
-# Build settings
+# Technical Settings
 remote_theme: jekyll/minima
-
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+
+# Custom Variables
+project:
+  name: "Digital Rain C++"
+  version: 1.0
+  repo_badge: "[![GitHub](https://img.shields.io/badge/View_on_GitHub-00FF00?logo=github)](https://github.com/DenisJ123/digital-rain-cpp)"
