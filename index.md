@@ -47,31 +47,10 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 - Precision color control
 
 
-## Algorithm
-
-### **Column Management System**
-
-<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/ColumnManagementSystem1.png" width="600" height="300">
-<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/ColumnManagementSystem2.png" width="600" height="300">
-
-**Key Features**
-
-- **Variable Speed**: Each column falls at different rates (1-5 rows/frame)
-
-- **Density Control**: 5% activation chance per frame
-
-- **Edge Handling**: Clean reset 10 rows below visible area
-
-
-
-
-
-
-
-
-
-
-
+#Add from here
+#Problem solving
+#Modern C++ Insight
+#Reflection
 
 
 Hyperlinks look like this: [GitHub Help](https://help.github.com/).
@@ -87,4 +66,3 @@ You can add an image that has been uploaded to the repository in a /docs/assets/
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/DigitalRainDev1.png" width="400" height="300">
 
 <img src="https://i629.photobucket.com/albums/uu14/dilan49/dilans%20dillies/DancingMan.gif" width="400" height="300">
-
