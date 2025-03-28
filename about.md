@@ -37,10 +37,20 @@ The animation maintains smooth motion through a three-phase render cycle:
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/CharacterRenderingPipeline2.png" width="550" height="200">
 
 ### Random Charactor Generation
-aaa
+
+This code provides the "falling code" visual effect:
+- Returns a random alphanumeric character from a predefined set.
+- rand() % chars.length() ensures uniform distribution.
+The letters can be changed at will.
+
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/RandomCharacterGeneration.png" width="500" height="400">
 
 ### Frame Timing
-aaa
+The frame timing feature is used to control the rate of speed of the characters falling:
+- Pauses execution for 50ms between frames.
+- Controls animation speed (20 FPS).
+
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/FrameTiming.png" width="500" height="400">
 
 ### Why I chose certain librarys
 <img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/Librarys.png" width="400" height="250">
