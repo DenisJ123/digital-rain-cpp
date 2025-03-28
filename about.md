@@ -84,3 +84,5 @@ Chrono - For time-related functions
 [Screen Dimentions](https://www.deepseek.com/)
 
 [Rain Speed](https://stackoverflow.com/questions/79113273/how-to-control-the-speed-of-objects-in-my-simple-game)
+
+[Vectors](https://vlegalwaymayo.atu.ie/pluginfile.php/1480067/mod_resource/content/6/Vector.pdf)
