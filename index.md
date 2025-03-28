@@ -43,6 +43,22 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 
 - Precision color control
 
+**Frame Rate Controller**
+
+- Utilizes <chrono> for frame pacing independent of CPU speed
+
+- Dynamic sleep adjustment maintains consistent 20 FPS
+
+- Adaptive to system load (slows down rather than dropping frames)
+
+**Character Generator**
+
+- Uniform alphanumeric distribution
+
+- No special characters or Unicode support
+
+- Uses legacy rand() (no <random> header)
+
 
 # Add from here
 # Problem solving
