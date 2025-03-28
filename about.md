@@ -75,4 +75,12 @@ Chrono - For time-related functions
 
 [Full Code](https://github.com/DenisJ123/digital-rain-cpp/tree/main/code)
 
-## References/ Websited I used to assist me
+### References/ Websited I used to assist me
+
+[Random Number Generate](https://www.w3schools.com/cpp/cpp_howto_random_number.asp)
+
+[Colour Selector](https://cplusplus.com/forum/beginner/139897/)
+
+[Screen Dimentions](https://www.deepseek.com/)
+
+[Rain Speed](https://stackoverflow.com/questions/79113273/how-to-control-the-speed-of-objects-in-my-simple-game)
