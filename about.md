@@ -43,7 +43,7 @@ This code provides the "falling code" visual effect:
 - rand() % chars.length() ensures uniform distribution.
 The letters can be changed at will.
 
-<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/RandomCharactorGeneration.png" width="500" height="400">
+<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/RandomCharactorGeneration.png" width="550" height="300">
 
 ### Frame Timing
 The frame timing feature is used to control the rate of speed of the characters falling:
