@@ -4,7 +4,7 @@ title: Denis's Project Blog
 author:
   name: Denis J
   email: DenisJ@gmail.ie
-description: "A website."
+description: Denis's Project."
 
 # Build settings
 remote_theme: jekyll/minima
