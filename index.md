@@ -47,10 +47,10 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 - Precision color control
 
 
-#Add from here
-#Problem solving
-#Modern C++ Insight
-#Reflection
+# Add from here
+# Problem solving
+# Modern C++ Insight
+# Reflection
 
 
 Hyperlinks look like this: [GitHub Help](https://help.github.com/).
