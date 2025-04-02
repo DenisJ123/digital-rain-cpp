@@ -63,5 +63,9 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 
 The creation of the digital rain effect came with a number of technological difficulties that needed to be resolved in order to generate fluid, appealing results. Eliminating screen flickering during animation updates was a major challenge. The animation was able to maintain fluid motion without the distracting flickering by using std::cout.flush() to force quick output and implementing targeted character redrawing, which updates only the particular positions where changes happened. The smooth appearance of falling characters was further improved by hiding the console pointer.
 
+Making realistic-looking raindrop patterns without turning to mechanical repetition was another challenge. Weighted randomisation ensured an array of characters, while a probabilistic technique determined when additional columns activated. As a result, the rain impact became more natural and predictable sequences were avoided. Because constant animation could put a load on system resources, performance reduction was also important. The introduction of sleep delays and regulated frame pacing balanced CPU usage while preserving fluid graphics, and the use of effective data structures like std::vector reduced memory overhead.
+
+Finally, the simulation had to change to different terminal sizes. The effect scaled smoothly from small command windows to full-screen displays by obtaining console size in real-time and modifying column spacing appropriately. Each of these methods created a refined digital rain simulation that maintains the Matrix appearance while operating effectively in a console environment by combining technical accuracy with creative problem-solving techniques.
+
 ## Modern C++ Insight
 ## Reflection
