@@ -59,7 +59,7 @@ This project brings the iconic Matrix digital rain effect to life using Windows 
 
 - Uses legacy rand() (no <random> header)
 
-## Problem solvin
+## Problem solving
 
 The creation of the digital rain effect came with a number of technological difficulties that needed to be resolved in order to generate fluid, appealing results. Eliminating screen flickering during animation updates was a major challenge. The animation was able to maintain fluid motion without the distracting flickering by using std::cout.flush() to force quick output and implementing targeted character redrawing, which updates only the particular positions where changes happened. The smooth appearance of falling characters was further improved by hiding the console pointer.
 
