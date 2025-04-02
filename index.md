@@ -67,5 +67,9 @@ Making realistic-looking raindrop patterns without turning to mechanical repetit
 
 Finally, the simulation had to change to different terminal sizes. The effect scaled smoothly from small command windows to full-screen displays by obtaining console size in real-time and modifying column spacing appropriately. Each of these methods created a refined digital rain simulation that maintains the Matrix appearance while operating effectively in a console environment by combining technical accuracy with creative problem-solving techniques.
 
-## Modern C++ Insight
 ## Reflection
+Creating this digital rain simulation combined technical problem-solving with creative design, and it turned out to be a really beneficial way to learn. Applying the falling code effect from the Matrix appeared to be simple at first, but the terminal interface brought difficulties that forced me to reconsider animation and performance improvement. A straightforward coding assignment turned into a thorough investigation of real-time rendering plans in limited systems.
+
+I learnt from this assignment that limits can actually encourage creativity. Because of the Windows Console's limited graphics capabilities, I had to come up with some creative workarounds, such as using selective redrawing and precise cursor control to produce fluid animations. I discovered that, occasionally, working with a system's limitations rather than against them yields the best results. I learnt more about effective coding techniques from the process of troubleshooting and performance problems than I could have from any source.
+
+This experience also shown the quality of modern C++ is for systems programming. What may have been messy, platform-specific code was made organise and maintainable by features like RAII and the chrono library. However, it also made me mindful of the language's errors, especially when it comes to managing real-time user interfaces. Surprisingly, I found that adding controlled defects was necessary to achieve the ideal "Matrix look", the ideal ratio of randomness gave the simulation a more realistic.
